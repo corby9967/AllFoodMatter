@@ -1,10 +1,9 @@
 # AllFoodMatter
 
 ***********************************************
-All Foods Matter.zip 파일 안에 
-
-AFM.zip (AFM.pde 소스파일) 과 
-AFM_APP.zip (AFM.exe 실행파일) 이 있습니다.
+All Foods Matter에는 
+AFM.pde 소스코드 파일과
+AFM.exe 실행파일이 포함되어 있습니다.
 
 ***********************************************
 
