@@ -1,6 +1,10 @@
 # AllFoodMatter
 
-***********************************************
+제작보고서: [All Foods Matter Report.pdf](https://github.com/user-attachments/files/23452363/All.Foods.Matter.Report.pdf)
+
+시연영상: https://github.com/user-attachments/assets/4c255edc-3c90-4c17-b3fe-1364fca449c0
+
+******************************************
 All Foods Matter에는 
 AFM.pde 소스코드 파일과
 AFM.exe 실행파일이 포함되어 있습니다.
